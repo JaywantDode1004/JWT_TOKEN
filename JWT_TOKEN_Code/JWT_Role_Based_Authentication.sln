@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT_Role_Based_Authentication", "JWT_Role_Based_Authentication.csproj", "{E64FE729-1853-4F1C-B04A-B5ED4D36E2DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E64FE729-1853-4F1C-B04A-B5ED4D36E2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64FE729-1853-4F1C-B04A-B5ED4D36E2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64FE729-1853-4F1C-B04A-B5ED4D36E2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64FE729-1853-4F1C-B04A-B5ED4D36E2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A2FFC53-540B-4E13-9638-93582F195C70}
+	EndGlobalSection
+EndGlobal
